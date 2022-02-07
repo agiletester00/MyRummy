@@ -103,3 +103,5 @@ don't do this, some of the UI elements of your application will remain in the
 language of the operating system.
 
 /////////////////////////////////////////////////////////////////////////////
+
+Updated to chech in azure devops
